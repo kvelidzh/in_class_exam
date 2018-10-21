@@ -5684,6 +5684,33 @@ section {
     right: -273px;
     background-color: #7e5aff; }
 
+.news {
+  background-image: url("../img/Bg_news.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+          background-size: cover;
+  width: 100%; }
+  .news__lat {
+    coloer: #fff;
+    font-size: 4.4em;
+    font-weight: 700; }
+  .news__bg {
+    padding: 2em;
+    height: 275px;
+    background-color: #fff;
+    color: #2c4058; }
+  .news__title {
+    font-size: 2.2em;
+    padding-bottom: 50px; }
+  .news__text {
+    font-size: 1.8em;
+    padding-bottom: 40px;
+    opacity: 0.9; }
+
+.q {
+  height: 44.2%; }
+
 #map {
   height: 100vh; }
 
@@ -5704,6 +5731,10 @@ section {
 
 .socials {
   padding-left: 370px; }
+
+.sliders {
+  padding-top: 65px;
+  position: relative; }
 
 .list-group {
   display: inline-block; }
